@@ -1,2 +1,2 @@
 # Virus-bookmarklets-for-chrome
-viruses I made
+viruses in the form of bookmarklets
